@@ -26,10 +26,3 @@ export default function InterviewerList(props) {
   </section>
   )
 }
-
-
-
-// [counter, setCounter] = useState(0)
-// const number = ()=> {
-  // setCounter(counter + 1)
-//}
