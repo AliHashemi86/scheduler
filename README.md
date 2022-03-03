@@ -7,15 +7,15 @@ Scheduler is a single-page app built with React, Webpack, Babel, Axios, and Webp
 
 ### Creating an appointment
 
-(https://github.com/AliHashemi86/scheduler/blob/master/docs/Creating%20an%20appointment.m4v)
+(https://github.com/AliHashemi86/scheduler/blob/master/docs/Create%20an%20appointment.gif)
 
 ### Editing an appointment
 
-(https://github.com/AliHashemi86/scheduler/blob/master/docs/Editing%20an%20appointment.m4v)
+(https://github.com/AliHashemi86/scheduler/blob/master/docs/Edit%20an%20appointment.gif)
 
 ### Deleting an appointment
 
-(https://github.com/AliHashemi86/scheduler/blob/master/docs/Deleting%20an%20appointment.m4v)
+(https://github.com/AliHashemi86/scheduler/blob/master/docs/Delete%20an%20appointment.gif)
 
 
 ## Get Started
