@@ -5,15 +5,15 @@ Scheduler is a single-page app built with React, Webpack, Babel, Axios, and Webp
 
 ## APP Demo
 
-### Saving an appointment
-
-()
-
-### Deleting an appointment
+### Creating an appointment
 
 ()
 
 ### Editing an appointment
+
+()
+
+### Deleting an appointment
 
 ()
 
