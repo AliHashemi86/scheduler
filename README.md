@@ -30,7 +30,7 @@ Scheduler is a single-page app built with React, Webpack, Babel, Axios, and Webp
 - Select a day of the week and add your appointment where a time slot is available.
 - You can edit or delete existing appointments.
 
-!["scheduler api link"](https://github.com/AliHashemi86/scheduler-api)
+["scheduler api link"](https://github.com/AliHashemi86/scheduler-api)
 
 ## Dependencies
 
